@@ -1,0 +1,3 @@
+class Black extends Success {
+	
+}
